@@ -1,5 +1,5 @@
 # unBIOSed IDE
-This project is an Eclipse plugin that aims to provide a set of Eclipse wizards on top of Eclipse CDT to ease the development of EDK2-based UEFI modules.
+This project is an Eclipse environment that aims to provide a set of features on top of Eclipse CDT to ease the development of EDK2-based UEFI modules.
 
 This is a work in progress, so feel free to suggest new features and let me know if you find any bugs while using it :)
 
