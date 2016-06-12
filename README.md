@@ -5,7 +5,7 @@ This is a work in progress, so feel free to suggest new features and let me know
 
 # A tour
 
-[![unBIOSed](http://img.youtube.com/vi/ELqV1xDdPkw/0.jpg)](https://www.youtube.com/watch?v=ELqV1xDdPkw)
+[![unBIOSed](http://img.youtube.com/vi/BgUr8osUEhg/0.jpg)](https://www.youtube.com/watch?v=BgUr8osUEhg)
 
 # Build instructions
   Clone this project with the command `git clone --recursive https://github.com/unbiosed-ide/unbiosed.git` and run `mvn verify`. This will generate the plugin's update size as a ZIP file under `releng/me.fmartins.unbiosed.update/target`.
