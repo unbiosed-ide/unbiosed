@@ -1,0 +1,9 @@
+[submodule "bundles/me.fmartins.unbiosed.plugin"]
+	path = bundles/me.fmartins.unbiosed.plugin
+	url = https://github.com/unbiosed-ide/core-plugin.git
+[submodule "releng/me.fmartins.unbiosed.update"]
+	path = releng/me.fmartins.unbiosed.update
+	url = https://github.com/unbiosed-ide/update-site.git
+[submodule "features/me.fmartins.unbiosed.feature"]
+	path = features/me.fmartins.unbiosed.feature
+	url = https://github.com/unbiosed-ide/eclipse-feature.git
