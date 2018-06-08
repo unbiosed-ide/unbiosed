@@ -1,4 +1,7 @@
 # unBIOSed IDE
+___THIS PROJECT IS NOT ACTIVE ANYMORE___
+___I'm not working with UEFI development anymore so I can't keep up with new developments on EDK. Feel free to fork this repo and let me know so that I can link to a version that's actively maintained here.___
+
 This project is an Eclipse environment that aims to provide a set of features on top of Eclipse CDT to ease the development of EDK2-based UEFI modules.
 
 This is a work in progress, so feel free to suggest new features and let me know if you find any bugs while using it :)
